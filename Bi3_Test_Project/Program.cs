@@ -10,6 +10,7 @@ namespace Bi3_Test_Project
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World !!!");
         }
     }
 }
